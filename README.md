@@ -22,5 +22,34 @@ The player with the higher dice number wins! 🚩
 
 ---
 
-## 📂 Project Structure
-Dice-Duel/ │── index.html │── styles.css │── index.js │── images/ ├── dice1.png ├── dice2.png ├── dice3.png ├── dice4.png ├── dice5.png └── dice6.png
+## 🎲 Link to Play
+
+
+## 🛠 Tech Stack
+- *HTML5*  
+- *CSS3*  
+- *JavaScript (ES6)*  
+
+---
+
+## 🛠 Tech Stack
+- *HTML5*  
+- *CSS3*  
+- *JavaScript (ES6)*  
+
+---
+
+## 📸 Screenshots
+
+---<img width="1918" height="905" alt="Screenshot 2025-08-25 173346" src="https://github.com/user-attachments/assets/112b0516-b489-4824-826e-34257e4bd872" />
+
+
+## 📌 Future Enhancements
+- Add a *Roll Dice Button* instead of page refresh.
+- Keep *scoreboard* for multiple rounds.
+- Mobile-friendly responsive design.
+
+---
+
+## 📜 License
+This project is open-source and free to use.
