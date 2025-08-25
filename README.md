@@ -23,7 +23,8 @@ The player with the higher dice number wins! 🚩
 ---
 
 ## 🎲 Link to Play
-
+- If you want to try the game? Click below and play it now👇
+  https://abhishek-1273.github.io/Week-11-Dice-Duel-Project/
 
 ## 🛠 Tech Stack
 - *HTML5*  
