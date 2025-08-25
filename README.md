@@ -1,4 +1,4 @@
-# 🎲 Weekly Project 11 - Dice Duel
+-# 🎲 Weekly Project 11 - Dice Duel
 
 A fun and simple dice game for two players.  
 Every time you refresh the page, both dice roll randomly.  
@@ -23,7 +23,7 @@ The player with the higher dice number wins! 🚩
 ---
 
 ## 🎲 Link to Play
-- If you want to try the game? Click below and play it now👇
+- If you want to try the game? Click here and play it now - 
   https://abhishek-1273.github.io/Week-11-Dice-Duel-Project/
 
 ## 🛠 Tech Stack
